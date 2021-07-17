@@ -14,25 +14,24 @@ function App() {
                     <button style={{margin:'10px'}} label="7" value="7">C</button>
                     <button style={{margin:'10px'}} label="7" value="7">+/-</button>
                     <button style={{margin:'10px'}} label="7" value="7">%</button>
-                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+                    <button style={{margin:'10px',background: '#65bbec',color: '#ffffff'}} label="7" value="7">x</button>
               </div>
               <div style={{padding:'10px'}}>
                     <button style={{margin:'10px'}} label="7" value="7">C</button>
                     <button style={{margin:'10px'}} label="7" value="7">+/-</button>
                     <button style={{margin:'10px'}} label="7" value="7">%</button>
-                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+                    <button style={{margin:'10px',background: '#65bbec',color: '#ffffff'}} label="7" value="7">x</button>
               </div>
               <div style={{padding:'10px'}}>
                     <button style={{margin:'10px'}} label="7" value="7">C</button>
                     <button style={{margin:'10px'}} label="7" value="7">+/-</button>
                     <button style={{margin:'10px'}} label="7" value="7">%</button>
-                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+                    <button style={{margin:'10px',background: '#65bbec',color: '#ffffff'}} label="7" value="7">x</button>
               </div>
               <div style={{padding:'10px'}}>
                     <button style={{margin:'10px'}} label="7" value="7">C</button>
                     <button style={{margin:'10px'}} label="7" value="7">+/-</button>
-                    <button style={{margin:'10px'}} label="7" value="7">%</button>
-                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+                    <button style={{margin:'10px',background: '#65bbec',color: '#ffffff'}} label="7" value="7">%</button>
               </div>
             </form>
           </div>

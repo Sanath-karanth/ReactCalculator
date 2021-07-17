@@ -43,6 +43,7 @@
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
+  margin: 20px;
   padding: 20px;
 }
 
@@ -50,10 +51,11 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background: #e6e6e6;
+    background: #f2f2f2;
     height: 20%;
     color: #65bbec;
     font-size: 24px;
+    padding: 10px;
 }
 
 button {
@@ -63,6 +65,6 @@ button {
   font-size: 20px;
   color: #65bbec;
   border: 1px solid rgba(0,0,0,0.05);
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   box-shadow: 2px 2px 2px #aaaaaa;
 }
