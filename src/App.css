@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background:linear-gradient(#65bbec,#7a9ad7);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* ------------------  card styles  ------------------- */
+
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.Display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: #e6e6e6;
+    height: 20%;
+    color: #65bbec;
+    font-size: 24px;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #65bbec;
+  border: 1px solid rgba(0,0,0,0.05);
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px #aaaaaa;
 }

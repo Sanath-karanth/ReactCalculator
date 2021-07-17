@@ -5,18 +5,37 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          <div className="container">
+            <form>
+              <div className="Display">
+                <h1>217*9</h1>
+              </div>
+              <div style={{padding:'10px'}}>
+                    <button style={{margin:'10px'}} label="7" value="7">C</button>
+                    <button style={{margin:'10px'}} label="7" value="7">+/-</button>
+                    <button style={{margin:'10px'}} label="7" value="7">%</button>
+                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+              </div>
+              <div style={{padding:'10px'}}>
+                    <button style={{margin:'10px'}} label="7" value="7">C</button>
+                    <button style={{margin:'10px'}} label="7" value="7">+/-</button>
+                    <button style={{margin:'10px'}} label="7" value="7">%</button>
+                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+              </div>
+              <div style={{padding:'10px'}}>
+                    <button style={{margin:'10px'}} label="7" value="7">C</button>
+                    <button style={{margin:'10px'}} label="7" value="7">+/-</button>
+                    <button style={{margin:'10px'}} label="7" value="7">%</button>
+                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+              </div>
+              <div style={{padding:'10px'}}>
+                    <button style={{margin:'10px'}} label="7" value="7">C</button>
+                    <button style={{margin:'10px'}} label="7" value="7">+/-</button>
+                    <button style={{margin:'10px'}} label="7" value="7">%</button>
+                    <button style={{margin:'10px'}} label="7" value="7">x</button>
+              </div>
+            </form>
+          </div>
       </header>
     </div>
   );
